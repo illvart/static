@@ -10,17 +10,18 @@ npm install @illvart/static
 
 ## Packages
 
-- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont)
-- [clipboard.js](https://github.com/zenorocha/clipboard.js)
-- [lory](https://github.com/meandmax/lory)
-- [object-fit-images](https://github.com/bfred-it/object-fit-images)
-- [cookieconsent](https://github.com/insites/cookieconsent)
+- [MaterialDesign-Webfont v=](https://github.com/Templarian/MaterialDesign-Webfont) v3.2.89
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
+- [lazyload](https://github.com/verlok/lazyload) v10.19.0
+- [lory](https://github.com/meandmax/lory) v2.5.2
+- [object-fit-images](https://github.com/bfred-it/object-fit-images) v3.2.4
+- [cookieconsent](https://github.com/insites/cookieconsent) v3.1.0
 
 ## Polyfill
 
-- [html5shiv](https://github.com/aFarkas/html5shiv)
-- [Respond](https://github.com/scottjehl/Respond)
-- [selectivizr](https://github.com/keithclark/selectivizr)
+- [selectivizr](https://github.com/keithclark/selectivizr) v1.0.2
+- [Respond](https://github.com/scottjehl/Respond) v1.4.2
+- [html5shiv](https://github.com/aFarkas/html5shiv) v3.7.2
 
 ## License
 
