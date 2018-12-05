@@ -1,6 +1,6 @@
 {
   "name": "@illvart/static",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Static files host for my project.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
