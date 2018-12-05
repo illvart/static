@@ -1,0 +1,32 @@
+{
+  "name": "@illvart/packages",
+  "version": "1.0.0",
+  "description": "Static files host for my project.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/illvart/static.git"
+  },
+  "keywords": [
+    "illvart",
+    "material",
+    "design",
+    "blogger"
+  ],
+  "author": {
+    "name": "M N Fuad",
+    "web": "http://twitter.com/illvart"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.html"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/illvart/static/issues"
+  },
+  "homepage": "http://illvart.github.io"
+}
