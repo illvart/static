@@ -10,7 +10,7 @@ npm install @illvart/static
 
 ## Packages
 
-- [MaterialDesign-Webfont v=](https://github.com/Templarian/MaterialDesign-Webfont) v3.2.89
+- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.2.89
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
 - [lazyload](https://github.com/verlok/lazyload) v10.19.0
 - [lory](https://github.com/meandmax/lory) v2.5.2
