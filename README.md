@@ -1,7 +1,8 @@
 # Static
 
 > *Note:* This is a an open source files that I use for my project.
-[Homepage](https://illvart.github.io
+
+[Homepage](https://illvart.github.io)
 
 ```
 npm install @illvart/static
