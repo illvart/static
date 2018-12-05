@@ -1,6 +1,6 @@
 # Static
 
-> *Note:* This is a an open source files that I use for my project.
+> *Note:* This is an open source files that I use for my project.
 
 [Homepage](https://illvart.github.io)
 
