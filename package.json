@@ -1,5 +1,5 @@
 {
-  "name": "@illvart/packages",
+  "name": "@illvart/static",
   "version": "1.0.0",
   "description": "Static files host for my project.",
   "scripts": {
@@ -15,18 +15,12 @@
     "design",
     "blogger"
   ],
-  "author": {
-    "name": "M N Fuad",
-    "web": "http://twitter.com/illvart"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/mit-license.html"
-    }
-  ],
+  "author": "M N Fuad (http://twitter.com/illvart)",
+  "email" : "illvart.email@gmail.com",
+  "homepage": "http://illvart.github.io",
+  "main": "index.js",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/illvart/static/issues"
-  },
-  "homepage": "http://illvart.github.io"
+  }
 }
