@@ -1,4 +1,4 @@
-# Static
+# `Static`
 
 > *Note:* This is an open source files that I use for my project.
 
@@ -10,12 +10,13 @@ npm install @illvart/static
 
 ## Packages
 
-- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.2.89
+- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.3.92
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
 - [lazyload](https://github.com/verlok/lazyload) v10.19.0
-- [lory](https://github.com/meandmax/lory) v2.5.2
+- [lory](https://github.com/meandmax/lory) v2.5.3
 - [object-fit-images](https://github.com/bfred-it/object-fit-images) v3.2.4
 - [cookieconsent](https://github.com/insites/cookieconsent) v3.1.0
+- [tiny-slider](https://github.com/ganlanyuan/tiny-slider) v2.9.1
 
 ## Polyfill
 
