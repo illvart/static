@@ -2,7 +2,7 @@
 
 > *Note:* This is an open source files that I use for my project.
 
-[Homepage](https://illvart.github.io)
+[Homepage](https://github.com/illvart/static)
 
 ```
 npm install @illvart/static
