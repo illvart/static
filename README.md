@@ -25,7 +25,7 @@ Note: The packages contains only minify version used for production.
 <script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
 ```
 
-#### [unpkg](https://unpkg.com/@illvart/static/)
+#### [UNPKG](https://unpkg.com/@illvart/static/)
 
 ```html
 <script src="https://unpkg.com/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
