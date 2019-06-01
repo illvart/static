@@ -16,6 +16,7 @@ yarn add @illvart/static
 
 ## CDN
 Example use on CDN like a **jsDelivr** or **UNPKG**.
+
 Note: The packages contains only minify version used for production.
 
 #### [jsDelivr](https://www.jsdelivr.com/package/npm/@illvart/static)
