@@ -1,4 +1,4 @@
 "use strict";
 
-// Hello world!
-// https://illvart.github.io
+// Hello, World!
+// https://github.com/illvart/static
