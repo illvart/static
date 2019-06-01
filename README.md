@@ -8,7 +8,9 @@
 npm install @illvart/static
 ```
 
-## Packages
+## Minify version used for production
+
+### Packages
 
 - [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.3.92
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
@@ -18,7 +20,7 @@ npm install @illvart/static
 - [cookieconsent](https://github.com/insites/cookieconsent) v3.1.0
 - [tiny-slider](https://github.com/ganlanyuan/tiny-slider) v2.9.1
 
-## Polyfill
+### Polyfill
 
 - [selectivizr](https://github.com/keithclark/selectivizr) v1.0.2
 - [Respond](https://github.com/scottjehl/Respond) v1.4.2
