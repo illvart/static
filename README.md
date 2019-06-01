@@ -15,6 +15,7 @@ yarn add @illvart/static
 ```
 
 ## CDN
+
 Example use on CDN like a **jsDelivr** or **UNPKG**.
 
 Note: The packages contains only minify version used for production.
@@ -47,6 +48,5 @@ Note: The packages contains only minify version used for production.
 - [Respond](https://github.com/scottjehl/Respond) v1.4.2
 - [html5shiv](https://github.com/aFarkas/html5shiv) v3.7.2
 
-## License
-
-Released under the [MIT licence](https://github.com/illvart/static/blob/master/LICENSE).
+## License and Copyright
+License and copyright by the author of packages above.
