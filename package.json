@@ -10,16 +10,12 @@
     "url": "https://github.com/illvart/static.git"
   },
   "keywords": [
-    "material-design",
     "blogger",
     "blogspot"
   ],
-  "author": "M N Fuad (http://twitter.com/illvart)",
+  "author": "MNF (illvart)",
   "email" : "illvart.email@gmail.com",
-  "homepage": "http://illvart.github.io",
+  "homepage": "https://github.com/illvart",
   "main": "index.js",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/illvart/static/issues"
-  }
+  "license": "MIT"
 }
