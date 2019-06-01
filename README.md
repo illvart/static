@@ -4,13 +4,33 @@
 
 [Homepage](https://github.com/illvart/static)
 
+## Install
+
 ```
 npm install @illvart/static
 ```
+or
+```
+yarn add @illvart/static
+```
 
-## Minify version used for production
+## CDN
+Example use on CDN like a **jsDelivr** or **UNPKG**.
+Note: The packages contains only minify version used for production.
 
-### Packages
+#### [jsDelivr](https://www.jsdelivr.com/package/npm/@illvart/static)
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
+```
+
+#### [unpkg](https://unpkg.com/@illvart/static/)
+
+```html
+<script src="https://unpkg.com/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
+```
+
+## Packages
 
 - [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.6.95
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
@@ -20,7 +40,7 @@ npm install @illvart/static
 - [cookieconsent](https://github.com/insites/cookieconsent) v3.1.0
 - [tiny-slider](https://github.com/ganlanyuan/tiny-slider) v2.9.1
 
-### Polyfill
+## Polyfill
 
 - [selectivizr](https://github.com/keithclark/selectivizr) v1.0.2
 - [Respond](https://github.com/scottjehl/Respond) v1.4.2
