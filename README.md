@@ -48,5 +48,5 @@ Note: The packages contains only minify version used for production.
 - [Respond](https://github.com/scottjehl/Respond) v1.4.2
 - [html5shiv](https://github.com/aFarkas/html5shiv) v3.7.2
 
-## License and Copyright
-License and copyright by the author of packages above.
+## Copyright and License
+Copyright and license by the author of packages above.
