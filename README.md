@@ -23,24 +23,23 @@ Note: The packages contains only minify version used for production.
 #### [jsDelivr](https://www.jsdelivr.com/package/npm/@illvart/static)
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.1.8/polyfill/html5shiv.min.js"></script>
 ```
 
 #### [UNPKG](https://unpkg.com/@illvart/static/)
 
 ```html
-<script src="https://unpkg.com/@illvart/static@1.1.7/polyfill/html5shiv.min.js"></script>
+<script src="https://unpkg.com/@illvart/static@1.1.8/polyfill/html5shiv.min.js"></script>
 ```
 
 ## Packages
 
-- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v3.6.95
+- [MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) v4.5.95
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) v2.0.4
-- [lazyload](https://github.com/verlok/lazyload) v10.19.0
+- [lazyload](https://github.com/verlok/lazyload) v12.1.0
 - [lory](https://github.com/meandmax/lory) v2.5.3
-- [object-fit-images](https://github.com/bfred-it/object-fit-images) v3.2.4
 - [cookieconsent](https://github.com/insites/cookieconsent) v3.1.0
-- [tiny-slider](https://github.com/ganlanyuan/tiny-slider) v2.9.1
+- [tiny-slider](https://github.com/ganlanyuan/tiny-slider) v2.9.2
 
 ## Polyfill
 
