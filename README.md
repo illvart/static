@@ -23,13 +23,13 @@ Note: The packages contains only minify version used for production.
 #### [jsDelivr](https://www.jsdelivr.com/package/npm/@illvart/static)
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.1.8/polyfill/html5shiv.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@illvart/static@1.2.0/polyfill/html5shiv.min.js"></script>
 ```
 
 #### [UNPKG](https://unpkg.com/@illvart/static/)
 
 ```html
-<script src="https://unpkg.com/@illvart/static@1.1.8/polyfill/html5shiv.min.js"></script>
+<script src="https://unpkg.com/@illvart/static@1.2.0/polyfill/html5shiv.min.js"></script>
 ```
 
 ## Packages
