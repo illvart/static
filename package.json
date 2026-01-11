@@ -1,0 +1,16 @@
+{
+  "name": "@illvart/static",
+  "version": "2.0.0",
+  "description": "Open source files used for my project",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/illvart/static",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illvart/static.git"
+  },
+  "keywords": [
+    "blogger",
+    "blogspot"
+  ]
+}
